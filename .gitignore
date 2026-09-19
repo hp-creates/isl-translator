@@ -52,3 +52,4 @@ docker-compose.override.yml
 htmlcov/
 .coverage
 coverage.xml
+STAR_Interview_Prep_Prompt.md
